@@ -25,7 +25,7 @@
 
 # Instructional Materials for the Digital Forensics Course
 ## Texas Tech University, Computer Science Department 
-## Designed and Taught by: Dr. Akbar Namin
+
 ###### A course on "Digital Forensics" designed and offered in the Computer Science Department at Texas Tech University 2017 - 2018
 
 
@@ -128,58 +128,7 @@ There are four sections, each would require a separate textbook. Here is the lis
 5. The Hacker Play Book 2: Practical Guide to Penetration Testing, Author: Peter Kim
 6. Hacking: The Art of Exploitation, Author: Jon Erickson
 
-## Additional References
-
-[WikiSET](https://asiamina.github.io/WikiSET/) is a portal, called Wiki for Security Training and Education, that lists useful materials and tutorials for teaching and learning digital forensics.
-
-## Course Team-based Project
-
-To stimulate learning, four team and **competition**-based projects are defined.  The four projects will allow students and each team practice the necessary skillsets for each section (i.e., reverse engineering, etc.). For each project, each team plays the role of both blue and red teams and thus is responsible to build an artifact with some secret item that will be discovered by the other team. 
-
-For instance, in disk forensics, each team will create a disk dump file with some hidden secret recipes hiden in different sectors, and the other team's job is to discover the secret recipes. 
-
-## Students Evaluation
-
-Students will be graded based on assignments, exams, and the project (tentative).
-*	Assignments (four individual assignments): 40%
-*	Projects (four team-based projects): 40% 
-*	Take Home Exams: 20%
-
-## Acknowledgements
-In preperation of this course including lecture notes, lab assignments, case studies, and hands-on experiences many graduate students involved. In particular, these graduate students contributed to the development of the course through donating their created artifacts:
-
-* Kelsey Hilton (diamond contributor: contributed to 1) lab setup module, 2) case studies on WannaCry, 3) Some other case studies)
-* Sara Sartoli (gold contributor: contributed to 1) Network Forensics lecture notes, 2) Create the [DigForPort](http://www.myweb.ttu.edu/asiamina/DigForPort/index.html) portal, 3) Some other case studies)
-* Fethi Inan (gold membe: contributed to 1) Memory Forensics lecture notes and modules)
-* Prerit Datta (silver contributor: contributed to 1) some other case studies, 2) Hands-on-Experience on Android Forensics)
-* Moitrayee Chatterjee (silver contributor: contributed to 1) some other case studies, 2) Hands-on-Experience on Android Forensics)
-* Sevgi Arca (silver contributor: contributed to 1) some other case studies)
-* Justin Lugo (silver contributor: contributed to 1) some other case studies)
-* Vinh Nguyen (silver contributor: contributed to 1) some other case studies)
-* Faranak Abri (silver contributor: contributed to a) hands on experiences and case studies)
-* Niklas Gollenstede (silver contributor: contributed to 1) some other case studies)
-* Gantaphon Chalumporn (silver contributor: contributed to 1) some other case studies)
-* Shuva Dass (Contributor to 1) Hands-on-Experience on Android Forensics)
-* Fulsy Theophitle (Contributor: Contributed to 1) Hands-on-Experience on Android Forensics)
-* Santosh Shrestha (Contributor: Contributed to 1) Hands-on-Experience on Android Forensics)
-* Anish Chhetri (Contributor: Contributed to 1) Android Forensics with Burp Suite)
-* Shashank Shrestha (Contributor: Contributed to 1) Android Forensics with Burp Suite)
-* Aashish Aman (Contributor: Contributed to 1) Android Forensics with Burp Suite)
-* Rojina Shrestha (Contributor: Contributed to 1) Armitage)
-* Sujan Roka (Contributor: Contributed to 1) Armitage)
-* Hasan Al-Qudah (Contributor: Contributed to 1) Malware Analysis Lecture Notes)
-* Yathartha Regmi (Contributed to 1) Malware Analysis using Rekall)
-* Sean Bosley (Contributed to 1) Malware Analysis using Rekall)
-* John Parker (Contributed to 1) Malware Analysis using Rekall)
-* Sharma, Pranaya (Contributed to 1) Cuckoo Sandbox Installatyion guide)
-* Sitaula, Bibek (Contributed to 1) Cuckoo Sandbox Installatyion guide)
-* Sushil GC (Contributed to 1) Cuckoo Sandbox Installatyion guide)
-* Turaga, Venkata Sai Prathyush: Contributed to the collection of resources related to CEH certification.
-* Some other contributions:
-** Contributed to malicious PDF and APK creation and analysis:
-*** KAPARTHI SAITEJA, SAI SANJAY NAGARUR, VENKATESH PATHIPATI, Zerubabel Armah, Dileep Narne, Bhogadula Lakshmi Sowjanya, Dinku Dwijesh Gullapalli, Diego Salas Noain, 
-Bipsa Paka, Prakriti Adhikari, Denish Otieno, Sri Nagini Sravishtha ETTE, Udochukwu NWANDIKOM, Diane RENARD, Manish Wagle, Simran Thapa, Arnab Zubair, Ravi Sankar Gogineni, Sai Meghana Akula, Venkata Veera Siva Dasari, Saroj Gopali, Bipin Chetri, Umarani Saidhulu Thandu, Kalyan Srinivas Krishnapasetty, Ramya Sree Mandava, Venkat Nithin Atturu, Sulakshana Mucheli, Nagavarshini Surapaneni, ROHITH SAI PRASAD PEKETI, UDHA SATYA SAI VENKAT REDDY GUDLA, Ranjith Boya, Gayathri Sowjanya Pothineni, Keerthana Katamneni, Pallavi Zambare, Manisha Ratna, Nalluri Mouni Soundarya, Raviteja Sirisanagandla, ALEKHYA BUGATA, KIRAN MAI MALLUVALASA, MADHURI GOKARAJU, Sai Saketh Thatikonda, Meghana Reddy Kosireddy, Hemanth Reddy Nagireddy, Pawan Kumar Sah, Rama Hruday Bandaru.
-
+#
 ## Special Thanks
 * The National Science Foundation (NSF) to support and sponsor the project 
 1. [NSF Grant Number: 1516636 ](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1516636)
